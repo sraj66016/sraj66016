@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./greetings.gif" width="80%" alt="Hello World Banner" />
+  <img src="./greetings.gif" width="50%" alt="Hello World Banner" />
 </p>
+
 
 <h2 align="center">Hi, I'm Sumit Raj 👋</h2>
 
